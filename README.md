@@ -11,7 +11,7 @@
 
 
 ## Description 
-This is a personal research documentation of the Haskell functional programming language and Cardano Plutus-Playground smart contract integration builder for the ADA ecosystem. Mainly it's a entire Haskell introduction to the programming language with tons of personal documentation by myself and fellow Haskell & Plutus programmer.
+This is a personal research documentation of the Haskell functional programming language and Cardano Plutus-Playground smart contract integration builder for the ADA ecosystem. Mainly it's an entire Haskell introduction to the programming language with tons of personal documentation by myself and fellow Haskell & Plutus programmer combined.
 
 ## Installation
 You can pull the repo by copying the link above and typing git pull origin source
